@@ -1,0 +1,4 @@
+# Gets user input
+name = input("What is your name?")
+num = input("What is your favorite number? ")
+print("")
